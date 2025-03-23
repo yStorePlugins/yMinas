@@ -39,6 +39,9 @@ Opcoes:
   RankupBook: true
   # Ativar o sistema de minas em bungeecord
   Bungeecord: false
+  # Teleportar o jogador para cima da mina ao resetar
+  # caso false, vai ficar o padrão = teleporta ao spawn da mina
+  Teleport-up: false
   # Quantia que irá somar no nível da fortuna
   # essencial para definir valores a partir da fortuna 1
   Fortuna-Acrescer: 0.5
